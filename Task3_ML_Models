@@ -1,0 +1,23 @@
+# Task 3 - Regression & Classification Models
+
+This task is part of my Machine Learning Virtual Internship at SQTS.
+
+## Regression Model
+- Algorithm: Linear Regression
+- R² Score: 0.55
+- RMSE: 0.16
+
+## Classification Model
+- Algorithm: Logistic Regression
+- Accuracy: 78%
+- Precision: 0.78
+- Recall: 0.60
+
+## Conclusion
+The models demonstrate good predictive performance and validate the dataset’s suitability for machine learning tasks.
+
+## Tools Used
+- Python
+- Scikit-learn
+- Pandas
+- Matplotlib
